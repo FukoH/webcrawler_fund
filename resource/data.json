@@ -1,0 +1,15 @@
+{
+	"id":"00001",
+	"name":"华夏混合",
+	"data":[
+		{
+			"period":"2017-08",
+			"accumulatedNet":1.0001
+		},
+		{
+			"period":"2017-07",
+			"accumulatedNet":1.0002
+		}
+	]
+}
+
